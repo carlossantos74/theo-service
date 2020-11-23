@@ -1,0 +1,14 @@
+props: 
+  border-width-hairline: 
+    value: "1px"
+
+  border-width-thin: 
+    value: "2px"
+
+  border-width-medium: 
+    value: "3px"
+
+
+global:
+  type: border-width
+  category: border

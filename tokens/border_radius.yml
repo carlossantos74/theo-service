@@ -1,0 +1,19 @@
+props:
+  border-radius-sm: 
+    value: "2px"
+
+  border-radius-md: 
+    value: "4px"
+
+  border-radius-lg: 
+    value: "8px"
+
+  border-radius-pill:
+    value: "500px"
+
+  border-radius-circular: 
+    value: "50%"
+
+global: 
+  type: border-radius
+  category: border

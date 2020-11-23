@@ -1,0 +1,16 @@
+{
+  "name": "theo-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "nodemon": "^2.0.6",
+    "optimist": "^0.6.1",
+    "theo": "^8.1.5"
+  }, 
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  }
+}

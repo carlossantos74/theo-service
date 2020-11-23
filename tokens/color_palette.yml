@@ -1,0 +1,74 @@
+props:
+  color-brand-primary-darker:
+    value: "#006837"
+    
+  color-brand-primary-dark: 
+    value: "#00ac56"
+
+  color-brand-primary-light: 
+    value: "#56cc83"
+
+  color-brand-primary-lighter: 
+    value: "#f0fcf2"
+
+  color-brand-secondary-default: 
+    value: "#334c9c"
+
+  color-brand-secondary-lighter: 
+    value: "#edf5fc"
+
+  color-gray-text-darker: 
+    value: "#1e2026"
+
+  color-gray-text-dark:
+    value:  "#2c2f36"
+
+  color-gray-text-default: 
+    value: "#3c3f47"
+
+  color-gray-text-light: 
+    value: "#515561"
+
+  color-gray-text-lighter: 
+    value: "#6c7180"
+
+  color-gray-background-darker: 
+    value: "#abafba"
+
+  color-gray-background-disabled: 
+    value: "#cbced6"
+
+  color-gray-background-default: 
+    value: "#e4e5eb"
+
+  color-gray-background-light: 
+    value: "#f0f1f5"
+
+  color-gray-background-lighter: 
+    value: "#f7f8fa"
+  
+  color-gray-background-input: 
+    value: "#fafafa"
+
+  color-ui-info-default: 
+    value: "#02abf9"
+
+  color-ui-info-lighter: 
+    value: "#edf8fc"
+
+  color-ui-warning-default: 
+    value: "#fcc605"
+
+  color-ui-warning-lighter: 
+    value: "#fff9e5"
+
+  color-ui-danger-default: 
+    value: "#ff324a"
+    
+  color-ui-danger-lighter: 
+    value: "#fff0f1"
+
+global:
+  type: color-palette
+  category: color
+
