@@ -1,3 +1,3 @@
 # theo-service
 
-criação de design tokens multiplataforma usando o theo
+Serviço node para criação de design tokens multiplataforma usando o theo
